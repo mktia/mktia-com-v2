@@ -22,6 +22,7 @@ const ProductCard = ({
       <a href={`https://${url}`}>
         <Image
           src={`/${image || "no-image.png"}`}
+          alt={title}
           height={200}
           width={300}
           placeholder="blur"

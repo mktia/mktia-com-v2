@@ -23,6 +23,7 @@ const ProductSmallCard = ({
       >
         <Image
           src={`/${image || "no-image.png"}`}
+          alt={title}
           height={60}
           width={90}
           placeholder="blur"
