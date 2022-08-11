@@ -60,7 +60,15 @@
       "Vue.js",
       "Vuetify"
     ],
-    "service": ["AWS EC2", "Azure VM", "GCE", "Firebase", "VPS"],
+    "service": [
+      "AWS EC2",
+      "Azure VM",
+      "GCE",
+      "Firebase",
+      "Heroku",
+      "Vercel",
+      "VPS"
+    ],
     "software": ["Apache", "Nginx"],
     "database": ["MySQL", "SQLite"],
     "operatingSystem": [
@@ -70,7 +78,14 @@
       "Raspberry Pi OS",
       "CentOS"
     ],
-    "tool": ["VS Code", "PyCharm", "RubyMine", "Eclipse", "Figma"]
+    "tool": [
+      "VS Code",
+      "PyCharm",
+      "RubyMine",
+      "Eclipse",
+      "Android Studio",
+      "Figma"
+    ]
   },
   "social": {
     "twitter": "twitter.com/mktia",

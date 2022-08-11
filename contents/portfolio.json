@@ -63,11 +63,35 @@
       "image": "",
       "type": "smart contract",
       "techStack": "Rust",
-      "description": "Cosmos系ブロックチェーンにおけるYearn.Financeを模したDeFiプロトコル",
+      "description": "Cosmos系ブロックチェーンにおけるyearn.financeを模したDeFiプロトコル",
       "domain": "devpost.com/software/sophon"
     }
   ],
   "legacy": [
+    {
+      "name": "[Previous] mktia is",
+      "image": "",
+      "type": "web site",
+      "techStack": "JavaScript / Nuxt.js / Pug.js / Sass / BootstrapVue / Vercel",
+      "description": "旧ウェブサイト",
+      "domain": "mktia-homepage.vercel.app"
+    },
+    {
+      "name": "Insider",
+      "image": "",
+      "type": "web application",
+      "techStack": "JavaScript / Nuxt.js / Vuetify /  Firebase",
+      "description": "Insiderゲーム",
+      "domain": "play-insider.web.app"
+    },
+    {
+      "name": "MKTIA.COM",
+      "image": "",
+      "type": "web site",
+      "techStack": "HTML / CSS",
+      "description": "初期のウェブサイト",
+      "domain": "legacy.mktia.com"
+    },
     {
       "name": "ENICY",
       "image": "products/enicy.png",
