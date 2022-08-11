@@ -1,0 +1,128 @@
+{
+  "webSites": [
+    {
+      "name": "mktia is",
+      "image": "products/mktia.png",
+      "type": "web site",
+      "techStack": "JavaScript / Next.js / Tailwind CSS",
+      "description": "このウェブサイト",
+      "domain": "www.mktia.com"
+    },
+    {
+      "name": "mktia's note",
+      "image": "products/blog.png",
+      "type": "blog",
+      "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
+      "description": "ノート的に使っているTechブログ",
+      "domain": "blog.mktia.com"
+    },
+    {
+      "name": "Image Portfolio",
+      "image": "products/image-portfolio.png",
+      "type": "web application",
+      "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
+      "description": "写真のポートフォリオ（テスト）",
+      "domain": "gallery.mktia.com"
+    },
+    {
+      "name": "OGP Generator",
+      "image": "products/ogp_mini.png",
+      "type": "web application",
+      "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
+      "description": "Open Graph Protocolタグの自動生成",
+      "domain": "ogp.mktia.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "E-calendar",
+      "image": "products/e-calendar.png",
+      "type": "hardware",
+      "techStack": "Python / Raspberry Pi",
+      "description": "Googleカレンダーと連動して動作する電子ペーパー製の卓上カレンダー",
+      "domain": "github.com/mktia/e-calendar"
+    },
+    {
+      "name": "Flea",
+      "image": "",
+      "type": "web application",
+      "techStack": "JavaScript / React / Tailwind CSS / Rust",
+      "description": "Cosmos系ブロックチェーンArchwayにおけるNFTマーケットプレイス",
+      "domain": "devpost.com/software/flea-archway-nft-market"
+    },
+    {
+      "name": "Token \"Multi\" Sender",
+      "image": "",
+      "type": "browser extension",
+      "techStack": "JavaScript / React / Rust",
+      "description": "Cosmos系ブロックチェーンにおける複数アドレス宛送金プログラム",
+      "domain": "devpost.com/software/tokenmultisender"
+    },
+    {
+      "name": "Sophon",
+      "image": "",
+      "type": "smart contract",
+      "techStack": "Rust",
+      "description": "Cosmos系ブロックチェーンにおけるYearn.Financeを模したDeFiプロトコル",
+      "domain": "devpost.com/software/sophon"
+    }
+  ],
+  "legacy": [
+    {
+      "name": "ENICY",
+      "image": "products/enicy.png",
+      "type": "android application",
+      "techStack": "Java",
+      "description": "Instagramアカウントを管理するAndroidアプリ",
+      "domain": "enicy.mktia.com"
+    },
+    {
+      "name": "ENICY for Instagram",
+      "image": "products/enicy-for-instagram.png",
+      "type": "web application",
+      "techStack": "Python / Flask / HTML / CSS",
+      "description": "Instagramアカウント管理アプリ",
+      "domain": "github.com/mktia/enicy-for-instagram"
+    },
+    {
+      "name": "InstaChecker",
+      "image": "products/ic.png",
+      "type": "web application",
+      "techStack": "Python / Flask / HTML / CSS",
+      "description": "Instagramアカウント管理アプリ",
+      "domain": "github.com/mktia/instachecker"
+    },
+    {
+      "name": "Postpic for Instagram",
+      "image": "products/postpic.png",
+      "type": "web application",
+      "techStack": "Python / Flask / HTML / CSS",
+      "description": "Instagramに写真を投稿するPC用クライアント",
+      "domain": "github.com/mktia/postpic"
+    },
+    {
+      "name": "Twilist",
+      "image": "products/twilist.jpg",
+      "type": "web application",
+      "techStack": "Python / Flask / HTML / CSS",
+      "description": "Twitterアカウント管理アプリ",
+      "domain": "github.com/mktia/twilists"
+    },
+    {
+      "name": "プライムビデオ配信終了まとめ",
+      "image": "products/prime-video.jpg",
+      "type": "web application",
+      "techStack": "Python / Flask / HTML / CSS",
+      "description": "配信が終了するプライムビデオのまとめサイト",
+      "domain": "github.com/mktia/primevideo"
+    },
+    {
+      "name": "mikutwi",
+      "image": "products/mikutwi.jpg",
+      "type": "web application",
+      "techStack": "Python / Flask / HTML / CSS",
+      "description": "Twitterアカウント管理アプリ",
+      "domain": "github.com/mktia/mktia-twitter"
+    }
+  ]
+}

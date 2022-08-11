@@ -1,0 +1,79 @@
+{
+  "aboutMe": [
+    {
+      "year": "2015",
+      "content": [
+        "ウェブデザインに興味をもち，HTMLやCSSを触ってみる",
+        "Javaでプログラミングの一端に触れる"
+      ]
+    },
+    {
+      "year": "2016",
+      "content": [
+        "流行ってたのでPythonを勉強し，ウェブアプリ開発の楽しさを知る",
+        "BlockchainやDeep Learningに出会う"
+      ]
+    },
+    {
+      "year": "2017",
+      "content": ["個人開発のAndroidアプリをGoogle Playストアに公開してみる"]
+    },
+    {
+      "year": "2018",
+      "content": ["Ethereumを用いたDApp開発でHackathonに参加する"]
+    },
+    {
+      "year": "2019",
+      "content": [
+        "フリーランスエンジニアとして，ウェブアプリやクロスプラットフォームなネイティブアプリの開発に携わる"
+      ]
+    },
+    { "year": "2020", "content": ["CosmosエコシステムのHackathonに参加する"] },
+    {
+      "year": "2021",
+      "content": [
+        "Blockchain領域を主とした職に就く",
+        "CosmosエコシステムのHackathonに再び参加する"
+      ]
+    },
+    { "year": "2022", "content": ["模索中…"] }
+  ],
+  "skill": {
+    "programming": {
+      "expert": ["JavaScript", "Python"],
+      "intermediate": ["Java", "TypeScript"],
+      "beginner": ["Go", "Motoko", "Ruby", "Rust", "Solidity"]
+    },
+    "markup": ["HTML", "CSS", "Sass", "Pug.js"],
+    "framework": [
+      "Bootstrap",
+      "BootstrapVue",
+      "Buefy",
+      "Bulma",
+      "Flask",
+      "Next.js",
+      "Nuxt.js",
+      "React.js",
+      "React Native",
+      "Ruby on Rails",
+      "Tailwind CSS",
+      "Vue.js",
+      "Vuetify"
+    ],
+    "service": ["AWS EC2", "Azure VM", "GCE", "Firebase", "VPS"],
+    "software": ["Apache", "Nginx"],
+    "database": ["MySQL", "SQLite"],
+    "operatingSystem": [
+      "Windows",
+      "macOS",
+      "Ubuntu",
+      "Raspberry Pi OS",
+      "CentOS"
+    ],
+    "tool": ["VS Code", "PyCharm", "RubyMine", "Eclipse", "Figma"]
+  },
+  "social": {
+    "twitter": "twitter.com/mktia",
+    "github": "github.com/mktia"
+  }
+}
