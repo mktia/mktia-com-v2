@@ -15,7 +15,7 @@ const Layout = ({ children, title, description }: Props) => {
     : `${title} - ${infoData.siteName}`
 
   return (
-    <div>
+    <>
       <Head>
         <title>{siteName}</title>
         <meta
@@ -42,7 +42,7 @@ const Layout = ({ children, title, description }: Props) => {
       <Header />
       <main className="container mx-auto px-4">{children}</main>
       <Footer />
-    </div>
+    </>
   )
 }
 

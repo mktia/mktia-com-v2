@@ -6,7 +6,7 @@ type Props = {
 
 const ReadMoreButton = ({ isExpand }: Props) => {
   return (
-    <div>
+    <>
       {isExpand ? (
         <div className="flex">
           <MdExpandLess size={20} />
@@ -18,7 +18,7 @@ const ReadMoreButton = ({ isExpand }: Props) => {
           <p className="font-light text-sm">More</p>
         </div>
       )}
-    </div>
+    </>
   )
 }
 
