@@ -17,9 +17,17 @@
       "domain": "blog.mktia.com"
     },
     {
+      "name": "T'S PHOTOGRAPH",
+      "image": "products/photo-mktia.png",
+      "type": "web site",
+      "techStack": "JavaScript / HTML / CSS",
+      "description": "写真のポートフォリオ（少し使っている）",
+      "domain": "photo.mktia.com"
+    },
+    {
       "name": "Image Portfolio",
       "image": "products/image-portfolio.png",
-      "type": "web application",
+      "type": "web site",
       "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
       "description": "写真のポートフォリオ（テスト）",
       "domain": "gallery.mktia.com"

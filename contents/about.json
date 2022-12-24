@@ -3,40 +3,38 @@
     {
       "year": "2015",
       "content": [
-        "ウェブデザインに興味をもち，HTMLやCSSを触ってみる",
-        "Javaでプログラミングの一端に触れる"
+        "Interested in web design and started learning HTML and CSS."
       ]
     },
     {
       "year": "2016",
       "content": [
-        "流行ってたのでPythonを勉強し，ウェブアプリ開発の楽しさを知る",
-        "BlockchainやDeep Learningに出会う"
+        "Learned Python and found it fun that develop web apps."
       ]
     },
     {
       "year": "2017",
-      "content": ["個人開発のAndroidアプリをGoogle Playストアに公開してみる"]
+      "content": ["Published Android app in Google Playstore."]
     },
     {
       "year": "2018",
-      "content": ["Ethereumを用いたDApp開発でHackathonに参加する"]
+      "content": ["Participated in the hackathon and developed DApp on Ethereum."]
     },
     {
       "year": "2019",
       "content": [
-        "フリーランスエンジニアとして，ウェブアプリやクロスプラットフォームなネイティブアプリの開発に携わる"
+        "Joined to develop web apps and a cross-platform native app as a freelance engineer."
       ]
     },
-    { "year": "2020", "content": ["CosmosエコシステムのHackathonに参加する"] },
+    { "year": "2020", "content": ["Participated in the hackathon of Cosmos ecosystem."] },
     {
       "year": "2021",
       "content": [
-        "Blockchain領域を主とした職に就く",
-        "CosmosエコシステムのHackathonに再び参加する"
+        "Got a job as an analyst specializing in blockchain.",
+        "Participated in the hackathon of Cosmos ecosystem for the second year in a row."
       ]
     },
-    { "year": "2022", "content": ["模索中…"] }
+    { "year": "2022", "content": ["To be continued..."] }
   ],
   "skill": {
     "programming": {
@@ -85,7 +83,8 @@
       "Eclipse",
       "Android Studio",
       "Figma"
-    ]
+    ],
+    "blockchain": ["Bitcoin", "Cosmos", "Ethereum", "Internet Computer"]
   },
   "social": {
     "twitter": "twitter.com/mktia",
