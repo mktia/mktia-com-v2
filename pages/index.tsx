@@ -5,11 +5,9 @@ import Layout from "../components/layout"
 const Home: NextPage = () => {
   const code = `
   while (asLongAsILive) {
-    hasResult = challenge();
+    hasSucceed = challenge();
     
-    if (hasResult) {
-      continue();
-    } else {
+    if (hasSucceed) {
       getNewSkill();
       goToNextStep();
     }
