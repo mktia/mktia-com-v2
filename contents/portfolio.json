@@ -5,7 +5,7 @@
       "image": "products/mktia.png",
       "type": "web site",
       "techStack": "JavaScript / Next.js / Tailwind CSS",
-      "description": "このウェブサイト",
+      "description": "This web site",
       "domain": "www.mktia.com"
     },
     {
@@ -13,7 +13,7 @@
       "image": "products/blog.png",
       "type": "blog",
       "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
-      "description": "ノート的に使っているTechブログ",
+      "description": "Tech blog using as my note",
       "domain": "blog.mktia.com"
     },
     {
@@ -21,15 +21,23 @@
       "image": "products/photo-mktia.png",
       "type": "web site",
       "techStack": "JavaScript / HTML / CSS",
-      "description": "写真のポートフォリオ（少し使っている）",
+      "description": "Poftfolio of my photos",
       "domain": "photo.mktia.com"
+    },
+    {
+      "name": "mynt",
+      "image": "products/mynt-mktia.png",
+      "type": "web site",
+      "techStack": "JavaScript / Nuxt.js / Pug.js / Sass / Buefy",
+      "description": "Note app (demo)",
+      "domain": "mynt.mktia.com"
     },
     {
       "name": "Image Portfolio",
       "image": "products/image-portfolio.png",
       "type": "web site",
       "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
-      "description": "写真のポートフォリオ（テスト）",
+      "description": "Portforio of my photos (demo)",
       "domain": "gallery.mktia.com"
     },
     {
@@ -37,7 +45,7 @@
       "image": "products/ogp_mini.png",
       "type": "web application",
       "techStack": "JavaScript / Nuxt.js / Pug.js / Sass",
-      "description": "Open Graph Protocolタグの自動生成",
+      "description": "Auto-generate Open Graph Protocol tags",
       "domain": "ogp.mktia.com"
     }
   ],
@@ -47,7 +55,7 @@
       "image": "products/e-calendar.png",
       "type": "hardware",
       "techStack": "Python / Raspberry Pi",
-      "description": "Googleカレンダーと連動して動作する電子ペーパー製の卓上カレンダー",
+      "description": "E-paper calendar that works in conujunction with Google calendar",
       "domain": "github.com/mktia/e-calendar"
     },
     {
@@ -55,7 +63,7 @@
       "image": "",
       "type": "web application",
       "techStack": "JavaScript / React / Tailwind CSS / Rust",
-      "description": "Cosmos系ブロックチェーンArchwayにおけるNFTマーケットプレイス",
+      "description": "NFT marketplace on Archway",
       "domain": "devpost.com/software/flea-archway-nft-market"
     },
     {
@@ -63,7 +71,7 @@
       "image": "",
       "type": "browser extension",
       "techStack": "JavaScript / React / Rust",
-      "description": "Cosmos系ブロックチェーンにおける複数アドレス宛送金プログラム",
+      "description": "Token transferring program for Cosmos network",
       "domain": "devpost.com/software/tokenmultisender"
     },
     {
@@ -71,17 +79,17 @@
       "image": "",
       "type": "smart contract",
       "techStack": "Rust",
-      "description": "Cosmos系ブロックチェーンにおけるyearn.financeを模したDeFiプロトコル",
+      "description": "DeFi protocol like yearn.finance for Cosmos network",
       "domain": "devpost.com/software/sophon"
     }
   ],
   "legacy": [
     {
-      "name": "[Previous] mktia is",
+      "name": "mktia is",
       "image": "",
       "type": "web site",
       "techStack": "JavaScript / Nuxt.js / Pug.js / Sass / BootstrapVue / Vercel",
-      "description": "旧ウェブサイト",
+      "description": "Previous web site",
       "domain": "mktia-homepage.vercel.app"
     },
     {
@@ -89,7 +97,7 @@
       "image": "",
       "type": "web application",
       "techStack": "JavaScript / Nuxt.js / Vuetify /  Firebase",
-      "description": "Insiderゲーム",
+      "description": "Support-app for Insider game",
       "domain": "play-insider.web.app"
     },
     {
@@ -97,7 +105,7 @@
       "image": "products/enicy.png",
       "type": "android application",
       "techStack": "Java",
-      "description": "Instagramアカウントを管理するAndroidアプリ",
+      "description": "Android app to manage Instagram accounts",
       "domain": "enicy.mktia.com"
     },
     {
@@ -105,7 +113,7 @@
       "image": "products/enicy-for-instagram.png",
       "type": "web application",
       "techStack": "Python / Flask / HTML / CSS",
-      "description": "Instagramアカウント管理アプリ",
+      "description": "Web app to manage Instagram accounts",
       "domain": "github.com/mktia/enicy-for-instagram"
     },
     {
@@ -113,7 +121,7 @@
       "image": "",
       "type": "web site",
       "techStack": "HTML / CSS",
-      "description": "初期のウェブサイト",
+      "description": "Initial web site",
       "domain": "legacy.mktia.com"
     },
     {
@@ -121,7 +129,7 @@
       "image": "products/postpic.png",
       "type": "web application",
       "techStack": "Python / Flask / HTML / CSS",
-      "description": "Instagramに写真を投稿するPC用クライアント",
+      "description": "Web app to post photos on Instagram",
       "domain": "github.com/mktia/postpic"
     },
     {
@@ -129,7 +137,7 @@
       "image": "products/ic.png",
       "type": "web application",
       "techStack": "Python / Flask / HTML / CSS",
-      "description": "Instagramアカウント管理アプリ",
+      "description": "Web app to manage Instagram accounts",
       "domain": "github.com/mktia/instachecker"
     },
     {
@@ -137,7 +145,7 @@
       "image": "products/twilist.jpg",
       "type": "web application",
       "techStack": "Python / Flask / HTML / CSS",
-      "description": "Twitterアカウント管理アプリ",
+      "description": "Web app to manage Twitter accounts",
       "domain": "github.com/mktia/twilists"
     },
     {
@@ -145,7 +153,7 @@
       "image": "products/prime-video.jpg",
       "type": "web application",
       "techStack": "Python / Flask / HTML / CSS",
-      "description": "配信が終了するプライムビデオのまとめサイト",
+      "description": "Summary web site of prime videos that will no longer be distributed",
       "domain": "github.com/mktia/primevideo"
     },
     {
@@ -153,7 +161,7 @@
       "image": "products/mikutwi.jpg",
       "type": "web application",
       "techStack": "Python / Flask / HTML / CSS",
-      "description": "Twitterアカウント管理アプリ",
+      "description": "Web app to manage Twitter accounts",
       "domain": "github.com/mktia/mktia-twitter"
     }
   ]
