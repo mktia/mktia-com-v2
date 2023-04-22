@@ -83,6 +83,9 @@ const About: NextPage = () => {
         <div className="mb-3">
           <SkillText title="IDE & Prototyping tool" terms={data.skill.tool} />
         </div>
+        <div className="mb-3">
+          <SkillText title="Blockchain" terms={data.skill.blockchain} />
+        </div>
       </div>
 
       <div className="mb-6 mt-16">
