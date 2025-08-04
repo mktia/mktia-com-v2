@@ -1,23 +1,25 @@
 import type { NextPage } from "next"
 
-import Layout from "../components/layout"
+import TopLayout from "../components/topLayout"
+
+const code = `
+while (IAmAlive) {
+  challenge();
+  if (satisfied) {
+    break;
+  }
+}`
 
 const Home: NextPage = () => {
-  const code = `
-  while (asLongAsILive) {
-    hasSucceed = try();
-    
-    if (hasSucceed) {
-      gainSkills();
-      nextSteps();
-    }
-  }`
   return (
-    <Layout>
-      <div className="my-48 text-xl">
-        <pre>{code}</pre><pre className="blink">  _</pre>
+    <TopLayout>
+      <div className="flex items-center justify-center h-full text-xl">
+        <div>
+          <pre>{code}</pre>
+          <pre className="blink">_</pre>
+        </div>
       </div>
-    </Layout>
+    </TopLayout>
   )
 }
 
